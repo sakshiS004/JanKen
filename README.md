@@ -6,13 +6,13 @@ Janken, also known as Rock-Paper-Scissors, is a simple hand game often used as a
 
 **Features:**
 <br>
-<br>Random Choice Generation:  The game utilizes the random module to ensure that the computer's choice is made randomly, providing a fair challenge each time. 
+<br>Random Choice Generation:  The game utilizes the random module to ensure that the computer's choice is made randomly, providing a fair challenge each time.<br>
 <br>
-User Interaction:  Players input their choice and receive immediate feedback on the outcome of the game.
+User Interaction:  Players input their choice and receive immediate feedback on the outcome of the game.<br>
 <br>
 Decision Making:  Useful for quick and fair decision-making in various scenarios.
 
-**Installation:**
+**Installation:**<br>
 <br>
 To run the game, ensure you have Python 3.x installed. No additional installation is required for the random module as it is part of the Python standard library.
 <br>
