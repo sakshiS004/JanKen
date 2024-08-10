@@ -8,7 +8,7 @@ Janken, also known as Rock-Paper-Scissors, is a simple hand game often used as a
 <br>
 <br>Random Choice Generation:  The game utilizes the random module to ensure that the computer's choice is made randomly, providing a fair challenge each time. <br>
 User Interaction:  Players input their choice and receive immediate feedback on the outcome of the game.
-<br>
+
 <br>
 Decision Making:  Useful for quick and fair decision-making in various scenarios.
 
